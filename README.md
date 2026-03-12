@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi 👋 I'm Toha Syafingi
+
+## 💻 Tech Stack
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=tohasyafingi&show_icons=true)
 
 <!--
 **tohasyafingi/tohasyafingi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
