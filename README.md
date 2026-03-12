@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Toha;Aspiring+Web+Developer;Building+the+Future+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Toha+Syafingi;Aspiring+Web+Developer;Building+the+Future+Web" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -41,12 +41,13 @@ I am a passionate **Tech Student** from **Indonesia** dedicated to mastering the
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=tohasyafingi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Toha's Stats" />
-    </td>
-    <td align="center">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohasyafingi&layout=compact&theme=tokyonight" alt="Top Langs" />
-    </td>
+  <td>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tohasyafingi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </td>
+  
+  <td>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohasyafingi&layout=compact&theme=tokyonight"/>
+  </td>
   </tr>
 </table>
 
