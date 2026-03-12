@@ -26,7 +26,7 @@ I am a passionate **Tech Student** from **Indonesia** dedicated to mastering mod
 * 💻 **Current Focus:** JavaScript & modern frameworks
 * 🔭 **Open Source:** Interested in community-driven projects
 * 🎯 **Goal:** Build scalable solutions with real impact
-
+<!--
 ---
 
 # 🛠️ Tech Stack & Tools
@@ -50,7 +50,7 @@ I am a passionate **Tech Student** from **Indonesia** dedicated to mastering mod
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
-
+-->
 ---
 
 # 📊 GitHub Ecosystem
