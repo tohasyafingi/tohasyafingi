@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Toha+Syafingi;Aspiring+Web+Developer;Building+the+Future+Web" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Hi+I'm+Toha+Syafingi;Web+Developer+in+Progress;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -75,26 +75,21 @@ I am a passionate **Tech Student** from **Indonesia** dedicated to mastering mod
 
 ---
 
-# 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
-
-<a href="mailto:tohasyafingi12@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail" height="35"/>
-</a>
-
-<a href="https://github.com/tohasyafingi">
-<img src="https://cdn.simpleicons.org/github" height="35"/>
-</a>
-
-<a href="https://linkedin.com/in/toha-syafingi">
-<img src="https://cdn.simpleicons.org/linkedin" height="35"/>
-</a>
-
-<a href="https://instagram.com/toha_syafingi">
-<img src="https://cdn.simpleicons.org/instagram" height="35"/>
-</a>
-
+  <a href="mailto:tohasyafingi12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/tohasyafingi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/toha-syafingi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/toha_syafingi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
