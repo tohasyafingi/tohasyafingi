@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Hi+I'm+Toha+Syafingi;Web+Developer+in+Progress;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Hi+I'm+Toha+Syafingi;Fullstack+Developer+Enthusiast;Building+Digital+Solutions;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -7,13 +7,9 @@
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=tohasyafingi&label=Profile%20Views&color=7aa2f7&style=flat-square"/>
-
 <img src="https://img.shields.io/github/followers/tohasyafingi?style=flat-square&color=7aa2f7&label=Followers"/>
-
 <img src="https://img.shields.io/github/stars/tohasyafingi?style=flat-square&color=7aa2f7&label=Stars"/>
-
 </p>
 
 ---
@@ -22,55 +18,62 @@
 
 I am a passionate **Tech Student** from **Indonesia** dedicated to mastering modern web development and building clean, responsive, and user-centric digital experiences.
 
-* 🎓 **Education:** Information Technology Student
-* 💻 **Current Focus:** JavaScript & modern frameworks
-* 🔭 **Open Source:** Interested in community-driven projects
-* 🎯 **Goal:** Build scalable solutions with real impact
-<!--
+- 🎓 **Education:** Information Technology Student
+- 💻 **Current Focus:** React, Laravel, & Mobile Development
+- 🔭 **Open Source:** Active contributor to community-driven projects
+- 🎯 **Goal:** Build scalable solutions with high real-world impact
+
 ---
+<!--
+## 🛠️ Tech Stack & Tools
 
-# 🛠️ Tech Stack & Tools
-
-### 🌐 Frontend & Languages
-
-<p align="center">
-
+### 🌐 Frontend & Design
+<p align="left">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### ⚙️ Development Tools
+### ⚙️ Backend & Database
+<p align="left">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-<p align="center">
-
+### 🧰 Development Tools
+<p align="left">
 <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 </p>
+
+---
 -->
----
-
-# 📊 GitHub Ecosystem
+## 📊 GitHub Ecosystem
 
 <p align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tohasyafingi&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tohasyafingi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<p align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=tohasyafingi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohasyafingi&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohasyafingi&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tohasyafingi&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true"/>
-
 </p>
 
 ---
@@ -90,6 +93,10 @@ I am a passionate **Tech Student** from **Indonesia** dedicated to mastering mod
   <a href="https://instagram.com/toha_syafingi">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tohasyafingi/tohasyafingi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
