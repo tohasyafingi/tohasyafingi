@@ -57,11 +57,11 @@ I am a passionate **Tech Student** from **Indonesia** dedicated to mastering mod
 </p>
 
 <p align="center"> 
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tohasyafingi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tohasyafingi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/> 
 </p>
 
 <p align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohasyafingi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohasyafingi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
